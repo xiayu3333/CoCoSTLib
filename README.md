@@ -1,2 +1,2 @@
 # STLibs
-A set of Simulink Libraries which enables the express of STL properties.
+A set of Simulink Libraries which enables users to express of Signal Temporal Logic (STL) specifications.
