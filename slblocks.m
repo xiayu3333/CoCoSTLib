@@ -1,12 +1,10 @@
 function blkStruct = slblocks
-% This function specifies that the library 'mylib'
-% should appear in the Library Browser with the 
-% name 'My Library'
+% This function adds libraries to Simulink Library Browser.
 
-    Browser.Library = 'mySTLLib';
+    Browser.Library = 'CoCoSTLib';
     % name of the library
 
-    Browser.Name = 'My STL Library';
+    Browser.Name = 'CoCoSTLib';
     % library name that appears in the Library Browser
 
     blkStruct.Browser = Browser;
