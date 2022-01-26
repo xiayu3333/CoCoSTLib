@@ -1,4 +1,4 @@
-mdl_name = 'CoCoSTLib';
+mdl_name = 'CoCoSTLib';  
 load_system(mdl_name);
 set_param(mdl_name,'Lock','off');
 set_param(mdl_name,'EnableLBRepository','on');
