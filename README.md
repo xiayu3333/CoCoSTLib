@@ -1,4 +1,4 @@
-cd "CoCoSTLLib" is a Simulink custom library of basic STL operators. 
+"CoCoSTLLib" is a Simulink custom library of basic STL operators. 
 
 # Table of Contents
 
